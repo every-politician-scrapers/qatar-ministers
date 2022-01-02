@@ -1,0 +1,96 @@
+{
+  "title": "Ali bin Samikh Al Marri",
+  "pageID": 69283093,
+  "categories": [
+    "1972 births",
+    "Living people",
+    "Qatari politicians"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ali bin Samikh Al Marri is a Qatari politician and human rights expert, born on November 30, 1972.",
+              "formatting": {
+                "bold": [
+                  "Ali bin Samikh Al Marri"
+                ]
+              }
+            },
+            {
+              "text": "He was appointed Minister of Labor of the State of Qatar on October 19, 2021.",
+              "links": [
+                {
+                  "text": "Minister of Labor",
+                  "type": "external",
+                  "site": "https://www.adlsa.gov.qa/en"
+                }
+              ]
+            },
+            {
+              "text": "Prior to this position, Al Marri served as the President of the National Human Rights Committee of the State of Qatar, since 2009."
+            },
+            {
+              "text": "He was also the Acting Chairperson and the Secretary General of the Global Alliance of National Human Rights Institution (GANHRI) and the President of the Arab Network for National Human Rights Institutions.",
+              "links": [
+                {
+                  "text": "Global Alliance of National Human Rights Institution",
+                  "type": "internal",
+                  "page": "Global Alliance of National Human Rights Institutions"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Minister of Labor in Qatar",
+          "template": "short description"
+        },
+        {
+          "list": [
+            "biography"
+          ],
+          "template": "draft topics"
+        },
+        {
+          "list": [
+            "blp"
+          ],
+          "template": "afc topic"
+        },
+        {
+          "year": "1972",
+          "month": "11",
+          "day": "30",
+          "df": "y",
+          "template": "birth date and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "HE Dr. Ali bin Samikh Al Marri"
+          },
+          "image": {
+            "text": "HE Dr. Ali bin Saeed bin Smaikh Al Marri.jpg"
+          },
+          "birth_date": {
+            "text": "November 30, 1972"
+          },
+          "education": {
+            "text": "PhD of Philosophy in Political Science (2006), Master of Political Science (2002), Bachelor of Political Science (1997)"
+          },
+          "occupation": {
+            "text": "Minister of Labor, politician, human-rights expert"
+          }
+        }
+      ]
+    }
+  ]
+}

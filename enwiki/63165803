@@ -1,0 +1,58 @@
+{
+  "title": "Hanan Mohamed Al Kuwari",
+  "pageID": 63165803,
+  "categories": [
+    "Year of birth missing (living people)",
+    "Living people",
+    "Women government ministers of Qatar",
+    "Government ministers of Qatar",
+    "Alumni of Brunel University London"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Hanan Mohamed Al Kuwari is a Qatari healthcare management professional.",
+              "formatting": {
+                "bold": [
+                  "Hanan Mohamed Al Kuwari"
+                ]
+              }
+            },
+            {
+              "text": "In 2015 she appeared at #20 in the CEO Middle East list of the 100 most powerful Arab women.",
+              "formatting": {
+                "italic": [
+                  "CEO Middle East"
+                ]
+              }
+            },
+            {
+              "text": "She was appointed as Qatar Minister of Public Health in January 2016 and serves on multiple medical boards in Qatar and the United States.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Qatar"
+                },
+                {
+                  "type": "internal",
+                  "page": "United States"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Qatari healthcare management professional",
+          "template": "short description"
+        }
+      ]
+    }
+  ]
+}
