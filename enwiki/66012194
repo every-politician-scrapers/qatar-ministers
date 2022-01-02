@@ -1,0 +1,120 @@
+{
+  "title": "Ali bin Ahmed Al Kuwari",
+  "pageID": 66012194,
+  "categories": [
+    "Living people",
+    "Qatari politicians",
+    "Government ministers of Qatar",
+    "Seattle Pacific University alumni",
+    "21st-century politicians",
+    "Eastern Washington University alumni",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ali bin Ahmed Al Kuwari is a Qatari politician who has served as Minister of Finance since October 2021.",
+              "links": [
+                {
+                  "text": "Qatari",
+                  "type": "internal",
+                  "page": "Qatar"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Qatar)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ali bin Ahmed Al Kuwari"
+                ]
+              }
+            },
+            {
+              "text": "Previously he served as Minister of Commerce and Industry from November 2018 to October 2021 and acting Minister of Finance from May to October 2021."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Qatari politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ali bin Ahmed Al Kuwari"
+          },
+          "image": {
+            "text": "Ali bin Ahmed Al Kuwari (2019) (cropped).jpg"
+          },
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Finance"
+          },
+          "monarch": {
+            "text": "Tamim bin Hamad Al Thani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tamim bin Hamad Al Thani"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "October 2021"
+          },
+          "residence": {
+            "text": "Qatar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qatar"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abdullah bin Nasser Al Thani\nKhalid bin Khalifa bin Abdul Aziz Al Thani",
+            "links": [
+              {
+                "text": "Abdullah bin Nasser Al Thani",
+                "type": "internal",
+                "page": "Abdullah bin Nasser bin Khalifa Al Thani"
+              },
+              {
+                "type": "internal",
+                "page": "Khalid bin Khalifa bin Abdul Aziz Al Thani"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Commerce and Industry"
+          },
+          "termstart2": {
+            "text": "November 2018"
+          },
+          "termend2": {
+            "text": "October 2021"
+          }
+        }
+      ]
+    }
+  ]
+}
