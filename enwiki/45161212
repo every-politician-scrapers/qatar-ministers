@@ -45,13 +45,45 @@
           ]
         }
       ],
-      "images": [
+      "infoboxes": [
         {
-          "file": "File:Saad Sherida al-Kaabi.jpg",
-          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Saad_Sherida_al-Kaabi.jpg?width=300",
-          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Saad_Sherida_al-Kaabi.jpg",
-          "caption": "Saad Sherida al-Kaabi, 2017",
-          "links": []
+          "name": {
+            "text": "Saad Sherida al-Kaabi"
+          },
+          "office": {
+            "text": "Minister of State for Energy"
+          },
+          "education": {
+            "text": "B Sc in Petroleum and Natural Gas Engineering from Pennsylvania State University (1991)"
+          },
+          "nationality": {
+            "text": "Qatari",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qatari"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Pennsylvania State University",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Pennsylvania State University"
+              }
+            ]
+          },
+          "image": {
+            "text": "Saad Sherida al-Kaabi.jpg"
+          },
+          "caption": {
+            "text": "Saad Sherida al-Kaabi, 2017"
+          },
+          "termstart": {
+            "text": "2018",
+            "number": 2018
+          }
         }
       ]
     }
