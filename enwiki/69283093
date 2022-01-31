@@ -53,18 +53,6 @@
           "template": "short description"
         },
         {
-          "list": [
-            "biography"
-          ],
-          "template": "draft topics"
-        },
-        {
-          "list": [
-            "blp"
-          ],
-          "template": "afc topic"
-        },
-        {
           "year": "1972",
           "month": "11",
           "day": "30",
