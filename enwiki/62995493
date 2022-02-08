@@ -35,7 +35,14 @@
               }
             },
             {
-              "text": "His appointment followed Sheikh Abdullah bin Nasser al-Thani's resignation."
+              "text": "His appointment followed Sheikh Abdullah bin Nasser al-Thani's resignation.",
+              "links": [
+                {
+                  "text": "Sheikh Abdullah bin Nasser al-Thani",
+                  "type": "internal",
+                  "page": "Abdullah bin Nasser bin Khalifa Al Thani"
+                }
+              ]
             }
           ]
         }
