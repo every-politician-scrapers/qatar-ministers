@@ -1,91 +1,10 @@
 {
-  "title": "Saad Sherida al-Kaabi",
-  "pageID": 45161212,
-  "categories": [
-    "Living people",
-    "Penn State College of Engineering alumni",
-    "Qatari chief executives",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Saad Sherida al-Kaabi (سعد شريدة الكعبي) is the current Minister of Energy in Qatar, and the President and CEO of Qatar Petroleum (QP), the state owned corporation which operates all oil and gas activities in the State of Qatar.",
-              "links": [
-                {
-                  "text": "Minister of Energy",
-                  "type": "internal",
-                  "page": "Energy minister"
-                },
-                {
-                  "text": "CEO",
-                  "type": "internal",
-                  "page": "Chief executive officer"
-                },
-                {
-                  "type": "internal",
-                  "page": "Qatar Petroleum"
-                },
-                {
-                  "type": "internal",
-                  "page": "Qatar"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Saad Sherida al-Kaabi"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Saad Sherida al-Kaabi"
-          },
-          "office": {
-            "text": "Minister of State for Energy"
-          },
-          "education": {
-            "text": "B Sc in Petroleum and Natural Gas Engineering from Pennsylvania State University (1991)"
-          },
-          "nationality": {
-            "text": "Qatari",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Qatari"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "Pennsylvania State University",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Pennsylvania State University"
-              }
-            ]
-          },
-          "image": {
-            "text": "Saad Sherida al-Kaabi.jpg"
-          },
-          "caption": {
-            "text": "Saad Sherida al-Kaabi, 2017"
-          },
-          "termstart": {
-            "text": "2018",
-            "number": 2018
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Saad Sherida al-Kaabi",
+  "office": "Minister of State for Energy",
+  "education": "B Sc in Petroleum and Natural Gas Engineering from Pennsylvania State University (1991)",
+  "nationality": "Qatari",
+  "alma_mater": "Pennsylvania State University",
+  "image": "Saad Sherida al-Kaabi.jpg",
+  "caption": "Saad Sherida al-Kaabi, 2017",
+  "termstart": "2018"
 }
