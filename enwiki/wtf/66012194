@@ -1,0 +1,327 @@
+{
+  "title": "Ali bin Ahmed Al Kuwari",
+  "pageID": 66012194,
+  "categories": [
+    "Living people",
+    "Qatari politicians",
+    "Government ministers of Qatar",
+    "Seattle Pacific University alumni",
+    "21st-century politicians",
+    "Eastern Washington University alumni",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Ali bin Ahmed Al Kuwari is a Qatari politician who has served as Minister of Finance since October 2021.",
+              "links": [
+                {
+                  "text": "Qatari",
+                  "type": "internal",
+                  "page": "Qatar"
+                },
+                {
+                  "text": "Minister of Finance",
+                  "type": "internal",
+                  "page": "Ministry of Finance (Qatar)"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Ali bin Ahmed Al Kuwari"
+                ]
+              }
+            },
+            {
+              "text": "Previously he served as Minister of Commerce and Industry from November 2018 to October 2021 and acting Minister of Finance from May to October 2021."
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Al Kuwari holds a Bachelor of Mathematics and Computer Science from Eastern Washington University and a Master of Science in Management Information Systems from the Seattle Pacific University.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Bachelor of Mathematics"
+                },
+                {
+                  "text": "Computer Science",
+                  "type": "internal",
+                  "page": "Bachelor of Computer Science"
+                },
+                {
+                  "type": "internal",
+                  "page": "Eastern Washington University"
+                },
+                {
+                  "text": "Master of Science in Management Information Systems",
+                  "type": "internal",
+                  "page": "Master of Science in Information Systems"
+                },
+                {
+                  "type": "internal",
+                  "page": "Seattle Pacific University"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "In 1988, Al Kuwari joined Qatar National Bank.",
+              "links": [
+                {
+                  "text": "Qatar National Bank",
+                  "type": "internal",
+                  "page": "QNB Group"
+                }
+              ]
+            },
+            {
+              "text": "He was Executive General Manager and Group Chief Business Officer of QNB.",
+              "links": [
+                {
+                  "text": "Chief Business Officer",
+                  "type": "internal",
+                  "page": "Chief business officer"
+                }
+              ]
+            },
+            {
+              "text": "On 9 July 2013, Al Kuwari became the CEO of QNB Group.",
+              "links": [
+                {
+                  "text": "CEO",
+                  "type": "internal",
+                  "page": "Chief executive officer"
+                }
+              ]
+            },
+            {
+              "text": "He chairs the MasterCard Middle East and North Africa Advisory Board.",
+              "links": [
+                {
+                  "text": "MasterCard",
+                  "type": "internal",
+                  "page": "Mastercard"
+                }
+              ]
+            },
+            {
+              "text": "He is also chairman of QNB Capital and of QNB Privée Suisse in Switzerland as well as vice chairman of Qatar Exchange.",
+              "links": [
+                {
+                  "text": "chairman",
+                  "type": "internal",
+                  "page": "Chairperson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Switzerland"
+                },
+                {
+                  "text": "vice chairman",
+                  "type": "internal",
+                  "page": "Chairperson"
+                },
+                {
+                  "type": "internal",
+                  "page": "Qatar Exchange"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Qatari politician",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Ali bin Ahmed Al Kuwari"
+          },
+          "image": {
+            "text": "Ali bin Ahmed Al Kuwari.png"
+          },
+          "honorific_prefix": {
+            "text": "His Excellency",
+            "links": [
+              {
+                "type": "internal",
+                "page": "His Excellency"
+              }
+            ]
+          },
+          "office": {
+            "text": "Minister of Finance"
+          },
+          "monarch": {
+            "text": "Tamim bin Hamad Al Thani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tamim bin Hamad Al Thani"
+              }
+            ]
+          },
+          "termstart": {
+            "text": "October 2021"
+          },
+          "residence": {
+            "text": "Qatar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qatar"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Abdullah bin Nasser Al Thani\nKhalid bin Khalifa bin Abdul Aziz Al Thani",
+            "links": [
+              {
+                "text": "Abdullah bin Nasser Al Thani",
+                "type": "internal",
+                "page": "Abdullah bin Nasser bin Khalifa Al Thani"
+              },
+              {
+                "type": "internal",
+                "page": "Khalid bin Khalifa bin Abdul Aziz Al Thani"
+              }
+            ]
+          },
+          "office2": {
+            "text": "Minister of Commerce and Industry"
+          },
+          "termstart2": {
+            "text": "November 2018"
+          },
+          "termend2": {
+            "text": "October 2021"
+          }
+        }
+      ],
+      "references": [
+        {
+          "date": "19 October 2021",
+          "title": "HH the Amir Issues Amiri Order Reshuffling Qatar Cabinet",
+          "url": "https://hukoomi.gov.qa/en/news/hh-the-amir-issues-amiri-order-reshuffling-qatar-cabinet",
+          "url-status": "live",
+          "access-date": "27 October 2021",
+          "website": "Hukoomi",
+          "language": "en",
+          "archive-url": "https://web.archive.org/web/20211019103201/https://hukoomi.gov.qa/en/news/hh-the-amir-issues-amiri-order-reshuffling-qatar-cabinet",
+          "archive-date": "2021-10-19",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "author": "Reuters Staff",
+          "date": "2018-11-04",
+          "title": "Qatar shuffles cabinet, names new heads of wealth fund, state gas giant",
+          "language": "en",
+          "work": "Reuters",
+          "url": "https://www.reuters.com/article/us-qatar-politics-cabinet-idUSKCN1N90AC",
+          "access-date": "2020-12-04",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "title": "Leadership",
+          "url": "https://www.mof.gov.qa/en/Pages/Leadership.aspx",
+          "access-date": "2021-05-18",
+          "website": "www.mof.gov.qa",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Amir’s move to update laws ensures justice and equality",
+          "url": "https://www.thepeninsulaqatar.com/article/11/05/2021/Amir%E2%80%99s-move-to-update-laws-ensures-justice-and-equality",
+          "access-date": "2021-05-18",
+          "website": "www.thepeninsulaqatar.com",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Ali Bin Ahmed Al Kuwari, State of Qatar: Profile and Biography",
+          "url": "https://www.bloomberg.com/profile/person/16326202",
+          "access-date": "2020-12-29",
+          "website": "Bloomberg.com",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2018-11-05",
+          "title": "Profiles of the new ministers",
+          "url": "https://gulf-times.com/story/611853",
+          "access-date": "2020-12-04",
+          "website": "Gulf-Times",
+          "language": "ar",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Top 100 Most Powerful Arabs 2017",
+          "url": "https://gulfbusiness.com/lists/100-powerful-arabs-2017/",
+          "access-date": "2020-12-04",
+          "website": "Gulf Business",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "QNB-Corporate Governance Report 2013",
+          "url": "https://www.qnb.com/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1562664638867&ssbinary=true",
+          "url-status": "live",
+          "archive-url": "https://web.archive.org/web/20210507200701/https://www.qnb.com/sites/Satellite?blobcol=urldata&blobkey=id&blobtable=MungoBlobs&blobwhere=1562664638867&ssbinary=true",
+          "archive-date": "2021-05-07",
+          "access-date": "2020-12-04",
+          "website": "QNB",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Minister of Commerce and Industry",
+          "url": "https://www.gco.gov.qa/en/ministries/minister-of-commerce-and-industry/",
+          "access-date": "2020-12-29",
+          "website": "Government Communications Office",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Minister of Commerce and Industry",
+          "url": "https://www.gco.gov.qa/en/ministries/minister-of-commerce-and-industry/",
+          "access-date": "2020-12-04",
+          "website": "Government Communications Office",
+          "language": "en-US",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "qatar-politician-stub"
+        }
+      ]
+    }
+  ]
+}
