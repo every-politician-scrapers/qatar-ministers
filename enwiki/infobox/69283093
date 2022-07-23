@@ -1,7 +1,9 @@
 {
-  "name": "HE Dr. Ali bin Samikh Al-Marri",
+  "name": "Ali bin Saeed bin Samikh Al-Marri",
+  "office": "Minister of Labour",
+  "education": "PhD in Political Science (2006) MA of Political Science (2002) BA of Political Science (1997)",
+  "country": "Qatar",
   "birth_date": "November 30, 1972",
-  "education": "Ph.D in Political Science (2006), MA of Political Science (2002), Bachelor of Political Science (1997)",
-  "occupation": "Qatar's Minister of Labour, Human rights figure and Politician",
-  "website": "https://twitter.com/AliBinSamikh"
+  "termstart": "October 19, 2021",
+  "appointer": "Tamim bin Hamad Al Thani"
 }
