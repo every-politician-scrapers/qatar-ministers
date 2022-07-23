@@ -32,7 +32,7 @@
               "text": "He was appointed Minister of Labour of the State of Qatar on October 19, 2021."
             },
             {
-              "text": "Before taking up the ministerial portfolio, he chaired the National Human Rights Committee (NHRC) in the State of Qatar since 2009.",
+              "text": "Before taking up the ministerial portfolio, he had chaired the National Human Rights Committee (NHRC) for State of Qatar since 2009.",
               "links": [
                 {
                   "text": "National Human Rights Committee",
@@ -89,14 +89,34 @@
           "year": "1972",
           "month": "11",
           "day": "30",
-          "df": "y",
           "template": "birth date and age"
         }
       ],
       "infoboxes": [
         {
           "name": {
-            "text": "HE Dr. Ali bin Samikh Al-Marri"
+            "text": "Ali bin Saeed bin Samikh Al-Marri"
+          },
+          "office": {
+            "text": "Minister of Labour"
+          },
+          "education": {
+            "text": "PhD in Political Science (2006) MA of Political Science (2002) BA of Political Science (1997)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "PhD"
+              }
+            ]
+          },
+          "country": {
+            "text": "Qatar",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qatar"
+              }
+            ]
           },
           "image": {
             "text": "HE Dr. Ali bin Saeed bin Smaikh Al Marri.jpg"
@@ -104,14 +124,17 @@
           "birth_date": {
             "text": "November 30, 1972"
           },
-          "education": {
-            "text": "Ph.D in Political Science (2006), MA of Political Science (2002), Bachelor of Political Science (1997)"
+          "termstart": {
+            "text": "October 19, 2021"
           },
-          "occupation": {
-            "text": "Qatar's Minister of Labour, Human rights figure and Politician"
-          },
-          "website": {
-            "text": "https://twitter.com/AliBinSamikh"
+          "appointer": {
+            "text": "Tamim bin Hamad Al Thani",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Tamim bin Hamad Al Thani"
+              }
+            ]
           }
         }
       ],
